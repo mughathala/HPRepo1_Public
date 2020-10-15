@@ -1,6 +1,6 @@
 # Security Policy for HPSOrg
 
-## Below are the supported versions
+## Below are the supported versions for sub
 
 Use this section to tell people about which versions of your project are
 currently being supported with security updates.
