@@ -1,3 +1,2 @@
 # This a sample CODEOWNERS file
-
-*.md			@M5
+*			@mughathala
